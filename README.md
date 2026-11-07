@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AF Sacolas
 
 Aplicação web para acompanhamento de pedidos de uma empresa de sacolas personalizadas. O projeto integra um banco de dados MySQL a um dashboard desenvolvido com Streamlit.
@@ -143,6 +142,4 @@ O diagrama do banco está disponível em [`Diagrama.png`](./Diagrama.png) e [`Di
 - O banco precisa estar em execução para o dashboard consultar ou alterar dados.
 - O script SQL contém dados iniciais para facilitar a demonstração.
 - A senha do MySQL não é armazenada no código; ela é informada pela barra lateral ou por variável de ambiente.
-=======
-# Dashboard-Controle-Produ-o
->>>>>>> fe19e8b697518a0965fbb1ccd243097a4164ba45
+
